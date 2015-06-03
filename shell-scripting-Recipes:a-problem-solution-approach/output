@@ -1,0 +1,304 @@
+
+$ ./install.sh 
+SELECTSHELL= _BASH=
+
+=========================================================================
+
+   The following shells appear to be POSIX compliant.
+   Please select one.
+
+    1.  /bin/bash
+    2.  /bin/sh
+    3.  /bin/dash
+   4.  OTHER
+
+=========================================================================
+
+   Select from 1 to 4: 1
+SELECTSHELL=/bin/bash _BASH=/bin/bash
+
+
+=========================================================================
+  Directories for Script Development
+=========================================================================
+
+  1. Script development: /home/javazhao/scripts   
+  2.       Installation: /home/javazhao/bin       
+  3.             Backup: /home/javazhao/scripts/bak
+
+=========================================================================
+
+  Select 1 to 3 to change directory or <ENTER> to accept: 
+
+
+=========================================================================
+  Suffixes
+=========================================================================
+
+  1. Development suffix: -sh
+  2.   Installed suffix: 
+  3.     Backup padding: 3
+
+=========================================================================
+
+  Select 1 to 3 to change suffix or <ENTER> to accept: 
+
+
+
+
+
+
+=========================================================================
+Installing scripts
+
+=========================================================================
+    Chapter 1
+
+	standard-funcs-sh ()	- 345 lines
+	standard-vars-sh (#! /bin/bash)	-   7 lines
+
+	2 scripts installed (352 lines)
+
+=========================================================================
+    Chapter 2
+
+	dos2mac-sh (#! /bin/bash)	-   7 lines
+	dos2unix-sh (#! /bin/bash)	-   8 lines
+	fed-sh (#! /bin/bash)	-  56 lines
+	finfo-sh (#! /bin/bash)	- 114 lines
+	lfreq-sh (#! /bin/bash)	-   7 lines
+	mac2dos-sh (#! /bin/bash)	-   8 lines
+	mac2unix-sh (#! /bin/bash)	-   7 lines
+	prn-sh (#! /bin/bash)	-  63 lines
+	prw-sh (#! /bin/bash)	-  47 lines
+	unix2dos-sh (#! /bin/bash)	-   8 lines
+	unix2mac-sh (#! /bin/bash)	-   9 lines
+	wbl-sh (#! /bin/bash)	-  22 lines
+	wfreq-sh (#! /bin/bash)	-   5 lines
+
+	13 scripts installed (361 lines)
+
+=========================================================================
+    Chapter 3
+
+	bash-funcs-sh ()	-  42 lines
+	char-funcs-sh ()	- 115 lines
+	string-funcs-sh ()	- 233 lines
+
+	3 scripts installed (390 lines)
+
+=========================================================================
+    Chapter 4
+
+	aminus-sh (#! /bin/bash)	-  35 lines
+	anagram-sh (#! /bin/bash)	-  23 lines
+	aplus-sh (#! /bin/bash)	-  27 lines
+	wfb-sh (#! /bin/bash)	-  27 lines
+	wf-clean-sh (#! /bin/bash)	-  38 lines
+	wf-compounds-sh (#! /bin/bash)	-  91 lines
+	wfc-sh (#! /bin/bash)	-  28 lines
+	wfe-sh (#! /bin/bash)	-  28 lines
+	wf-funcs-sh ()	-  80 lines
+	wfit-sh (#! /bin/bash)	-  70 lines
+tail: 无法打开"+2" 读取数据: 没有那个文件或目录
+	wf-setup-sh (#! /bin/bash)	-  65 lines
+	wf-sh (#! /bin/bash)	-  34 lines
+
+	12 scripts installed (546 lines)
+
+=========================================================================
+    Chapter 5
+
+	conversion-funcs-sh ()	- 239 lines
+	conversion-sh (#! /bin/bash)	-  87 lines
+	math-funcs-sh ()	- 222 lines
+	mean-sh (#! /bin/bash)	-  34 lines
+	median-sh (#! /bin/bash)	-  16 lines
+	mode-sh (#! /bin/bash)	-  51 lines
+	range-sh (#! /bin/bash)	-  25 lines
+	stdev-sh (#! /bin/bash)	-  55 lines
+	total-sh (#! /bin/bash)	-   4 lines
+
+	9 scripts installed (733 lines)
+
+=========================================================================
+    Chapter 6
+
+	filename-funcs-sh ()	- 243 lines
+	fixfname-sh (#! /bin/bash)	-  71 lines
+
+	2 scripts installed (314 lines)
+
+=========================================================================
+    Chapter 7
+
+	path-funcs-sh ()	- 133 lines
+
+	1 scripts installed (133 lines)
+
+=========================================================================
+    Chapter 8
+
+	date-funcs-sh ()	- 516 lines
+
+	1 scripts installed (516 lines)
+
+=========================================================================
+    Chapter 9
+
+	dfcmp-sh (#! /bin/bash)	- 129 lines
+	lsr-sh (#! /bin/bash)	-  30 lines
+	sym2file-sh (#! /bin/bash)	-  74 lines
+	symfix-sh (#! /bin/bash)	-  73 lines
+	undup-sh (#! /bin/bash)	-  80 lines
+	zrm-sh (#! /bin/bash)	-  22 lines
+
+	6 scripts installed (408 lines)
+
+=========================================================================
+    Chapter 10
+
+	pflog-sh (#! /bin/bash)	-   6 lines
+	pop3filter-sh (#! /bin/bash)	-  66 lines
+tail: 无法打开"+2" 读取数据: 没有那个文件或目录
+	pop3-funcs-sh ()	- 577 lines
+	pop3list-sh (#! /bin/bash)	- 194 lines
+tail: 无法打开"+2" 读取数据: 没有那个文件或目录
+	popcheck-sh (#! /bin/bash)	-  15 lines
+tail: 无法打开"+2" 读取数据: 没有那个文件或目录
+	viewlog-sh (#! /bin/bash)	-  33 lines
+tail: 无法打开"+2" 读取数据: 没有那个文件或目录
+
+	6 scripts installed (891 lines)
+
+=========================================================================
+    Chapter 11
+
+	ps-envelopes-sh (#! /bin/bash)	- 186 lines
+tail: 无法打开"+2" 读取数据: 没有那个文件或目录
+	ps-grid-sh (#! /bin/bash)	- 208 lines
+	ps-labels-sh (#! /bin/bash)	- 184 lines
+
+	3 scripts installed (578 lines)
+
+=========================================================================
+    Chapter 12
+
+	screen-demo-sh (#! /bin/bash)	-  49 lines
+	screen-funcs-sh ()	- 325 lines
+	screen-vars-sh (#! /bin/bash)	-  56 lines
+
+	3 scripts installed (430 lines)
+
+=========================================================================
+    Chapter 13
+
+	bin-pack-sh (#! /bin/bash)	- 107 lines
+	bu-sh (#! /bin/bash)	- 166 lines
+	unpack-sh (#! /bin/bash)	-  51 lines
+
+	3 scripts installed (324 lines)
+
+=========================================================================
+    Chapter 14
+
+	date-file-sh (#! /bin/bash)	-  96 lines
+	keepnewest-sh (#! /bin/bash)	-  74 lines
+	rmold-sh (#! /bin/bash)	-  66 lines
+
+	3 scripts installed (236 lines)
+
+=========================================================================
+    Chapter 15
+
+	db-demo-sh (#! /bin/bash)	- 161 lines
+tail: 无法打开"+2" 读取数据: 没有那个文件或目录
+	lookup-sh (#! /bin/bash)	-  23 lines
+	phadd-sh (#! /bin/bash)	-  20 lines
+	phdel-sh (#! /bin/bash)	-  11 lines
+	ph-sh (#! /bin/bash)	-  11 lines
+	phx-sh (#! /bin/bash)	-   1 lines
+	shdb-funcs-sh ()	- 119 lines
+
+	7 scripts installed (346 lines)
+
+=========================================================================
+    Chapter 16
+
+	cgi-funcs-sh ()	- 105 lines
+	demo.cgi ()	-  43 lines
+	html-funcs-sh ()	-  94 lines
+	mk-htmlindex-sh (#! /bin/bash)	- 205 lines
+	pretext-sh (#! /bin/bash)	-  28 lines
+	text2html-sh (#! /bin/bash)	-  33 lines
+
+	6 scripts installed (508 lines)
+
+=========================================================================
+    Chapter 17
+
+	gle-sh (#! /bin/bash)	- 296 lines
+	prcalc-sh (#! /bin/bash)	- 119 lines
+
+	2 scripts installed (415 lines)
+
+=========================================================================
+    Chapter 18
+
+	dice-sh (#! /bin/bash)	- 101 lines
+	rand-date-sh (#! /bin/bash)	-  55 lines
+	rand-funcs-sh ()	- 106 lines
+	randomword-sh (#! /bin/bash)	- 132 lines
+	randsort-sh (#! /bin/bash)	-   7 lines
+	throw-sh (#! /bin/bash)	-  18 lines
+
+	6 scripts installed (419 lines)
+
+=========================================================================
+    Chapter 19
+
+	cci-sh (#! /bin/bash)	-  11 lines
+	cwbw-sh (#! /bin/bash)	-   2 lines
+	flocate-sh (#! /bin/bash)	-   2 lines
+	intersperse-sh (#! /bin/bash)	-  10 lines
+	ipaddr.cgi ()	-   5 lines
+	ipaddr-sh (#! /bin/bash)	-  21 lines
+	iprev-sh (#! /bin/bash)	-   4 lines
+	ll-sh (#! /bin/bash)	-  12 lines
+	name-split-sh (#! /bin/bash)	-  27 lines
+	rot13a-sh (#! /bin/bash)	-   1 lines
+	rot13-sh (#! /bin/bash)	-   5 lines
+	showfstab-sh (#! /bin/bash)	-   9 lines
+	sus-sh (#! /bin/bash)	-  31 lines
+	topntail-sh (#! /bin/bash)	-  30 lines
+	unique-sh (#! /bin/bash)	-   1 lines
+	unshowfstab-sh (#! /bin/bash)	-   4 lines
+
+	16 scripts installed (175 lines)
+
+=========================================================================
+    Chapter 20
+
+	cpsh-sh (#! /bin/bash)	-  74 lines
+	script-setup-sh (#! /bin/bash)	- 137 lines
+	shcat-sh (#! /bin/bash)	-  26 lines
+	shgrep-sh (#! /bin/bash)	-   8 lines
+
+	4 scripts installed (245 lines)
+
+
+=========================================================================
+	108 scripts installed
+
+
+
+    To test the scripts, execute the following command at the shell
+    prompt:
+
+          PATH=$PATH:/home/javazhao/scripts:/home/javazhao/bin
+
+    Put the line it in your shell initialization file so that it will
+    be in effect for all future shells.
+
+
+    Please report problems to Chris F.A. Johnson <cfaj@freeshell.org>.
